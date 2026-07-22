@@ -1,4 +1,4 @@
-# churn_optimizer# Prescriptive Customer Churn & OpEx Optimizer
+# Prescriptive Customer Churn & OpEx Optimizer
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32.2-FF4B4B.svg)](https://streamlit.io/)
